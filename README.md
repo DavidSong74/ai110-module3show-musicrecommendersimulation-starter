@@ -81,7 +81,7 @@ The system uses one scoring formula and one ranking step.
   - $k > n$: return all $n$ songs sorted
   - Missing or invalid numeric values: skip song or default safely, and document which behavior you choose in code comments
 - Explanation format should include:
-  - total score
+  - total score 
   - whether mood and genre matched
   - top 2 to 3 strongest contributing features
   - one sentence on why the song ranked where it did
